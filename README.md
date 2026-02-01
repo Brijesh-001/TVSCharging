@@ -1,4 +1,4 @@
-[LIVE DEMO}(https://tvscharging-lephuuneli5mcfnnqbh6rt.streamlit.app/)
+[LIVE DEMO](https://tvscharging-lephuuneli5mcfnnqbh6rt.streamlit.app/)
 
 # 🔋 EV Full-Charge Time Calculator (Streamlit)
 
